@@ -1,0 +1,10 @@
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Apple Inc.//iPhone OS 16.5.1//EN
+N:Mishra;Manish;;;
+FN:Manish Mishra
+ORG:Cate AI;
+EMAIL;type=INTERNET;type=WORK;type=pref:manish@getcate.ai
+item1.URL;type=pref:https://getcate.ai
+item1.X-ABLabel:_$!<HomePage>!$_
+END:VCARD
